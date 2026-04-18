@@ -1,11 +1,12 @@
 # Booking-Hotels-Reviews-ML-Project
 ML project on Kaggle
-# 🏨 Hotel Reviews ML Project
+#  Hotel Reviews ML Project
 
 ## Описание проекта
 
 Данный проект посвящён анализу и подготовке данных (EDA) для задачи машинного обучения — предсказания рейтинга отеля на основе отзывов пользователей и сопутствующих признаков.
 
+Competicion is located [here]([https://example.com](https://www.kaggle.com/competitions/sf-booking))
 ---
 
 ## Данные
